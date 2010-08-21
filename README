@@ -1,0 +1,16 @@
+reliefweb-fts
+
+A series of scripts to aid the extraction of data from ReliefWeb's
+Financial Tracking Service <http://fts.unocha.org/>.
+
+AUTHOR
+======
+
+  TSM (Tim McNamara <paperless@timmcnamara.co.nz>)
+  @timClicks
+
+LICENCE
+=======
+
+  GPL v3 or above
+  See LICENSE for details
